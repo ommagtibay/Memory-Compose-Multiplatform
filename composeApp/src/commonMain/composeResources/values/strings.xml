@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Memory</string>
+
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+
+    <string name="msg_quit">Are you sure you\nwant to quit? You\nwill lose your\nprogress.</string>
+    <string name="msg_again">Play\nanother\nround?</string>
+
+    <string name="levels">Levels</string>
+    <string name="level_test">Test</string>
+    <string name="level_easy">Easy</string>
+    <string name="level_normal">Normal</string>
+    <string name="level_hard">Hard</string>
+
+    <string name="desc_easy">Fun Memory\nAdventure</string>
+    <string name="desc_normal">Challenge Your\nMemory</string>
+    <string name="desc_hard">Ultimate Brain\nChallenge</string>
+</resources>
