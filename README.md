@@ -50,5 +50,4 @@ skills.
 
 ## Attribution:
 
-Arts and design
-by ![NOERKSLogo_HorizontalWhite](https://github.com/ommagtibay/Memory-Compose-Multiplatform/assets/165558463/269b4695-33c5-46a3-8dee-b6a5ffecbeba)
+Arts and design by ![NOERKSLogo-Github](https://github.com/ommagtibay/Memory-Compose-Multiplatform/assets/165558463/014d87f0-2de2-4843-a7ac-901ea1c37442)
